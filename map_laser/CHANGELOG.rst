@@ -2,8 +2,8 @@
 Changelog for package map_laser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2015-08-31)
+------------------
 * Indigo Update, 10 queue size, pep8
 * PEP8 Fixes
 * don't make invalid ranges valid
