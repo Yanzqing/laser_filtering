@@ -2,6 +2,11 @@
 Changelog for package laser_filtering
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Changing maintainer to not pester david
+* Contributors: Christian Dondrup
+
 0.0.5 (2015-08-31)
 ------------------
 

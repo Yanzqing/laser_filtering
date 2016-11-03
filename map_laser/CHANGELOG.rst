@@ -2,6 +2,11 @@
 Changelog for package map_laser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Changing maintainer to not pester David
+* Contributors: Christian Dondrup
+
 0.0.5 (2015-08-31)
 ------------------
 * Indigo Update, 10 queue size, pep8
